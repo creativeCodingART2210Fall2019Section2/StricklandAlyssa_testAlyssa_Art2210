@@ -1,3 +1,3 @@
 # Strickland_Alyssa_Art2210
 
-[Testing Page Link](file:///C:/Users/alyss/Documents/GitHub/Strickland_Alyssa_Art2210/GitHubtesting/GitHubtesting.html)
+[Testing Page Link](https://alyssastrickland.github.io/Strickland_Alyssa_Art2210/GitHubtesting/GitHubtesting.html)
