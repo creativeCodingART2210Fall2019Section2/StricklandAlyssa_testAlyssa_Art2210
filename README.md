@@ -4,6 +4,6 @@ Hello
 
 <div align=center>
 
-![](https://www.skillshare.com/profile/Marco-Bucci/5811784)
+![](https://github.com/AlyssaStrickland/StricklandAlyssa_testAlyssa_Art2210/raw/master/Image/ca2e34fc.jpg)
 
 <div align=left>
