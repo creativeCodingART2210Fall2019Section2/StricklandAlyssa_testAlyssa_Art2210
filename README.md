@@ -1,9 +1,3 @@
-# StricklandAlyssa_testAlyssa_Art2210
+# Strickland_Alyssa_Art2210
 
-Hello
-
-<div align=center>
-
-![](https://github.com/AlyssaStrickland/StricklandAlyssa_testAlyssa_Art2210/raw/master/Image/ca2e34fc.jpg)
-
-<div align=left>
+[Testing Page Link](https://alyssastrickland.github.io/Strickland_Alyssa_Art2210/Sep16/GitHubtesting/GitHubtesting.html)
