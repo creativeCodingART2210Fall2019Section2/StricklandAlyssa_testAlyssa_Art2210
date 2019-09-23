@@ -10,14 +10,6 @@ André-Masson-'Maternité'
 
 <div align=center>
 
-André-Masson-'A Brush Dipped in Fire'
-
-![André-Masson-'A Brush Dipped in Fire'](https://github.com/AlyssaStrickland/Strickland_Alyssa_Art2210/raw/master/Strickland_Alyssa_ART2210_Self-portrait_Fall2019/Image/brush.jpg)
-
-<div align=left>
-
-<div align=center>
-
 Jose Trujillo (Male Portrait)
 
 ![trujillo](https://github.com/AlyssaStrickland/Strickland_Alyssa_Art2210/raw/master/Strickland_Alyssa_ART2210_Self-portrait_Fall2019/Image/trujillo.jpg)
