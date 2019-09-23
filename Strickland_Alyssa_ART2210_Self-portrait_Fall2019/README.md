@@ -3,7 +3,7 @@
 
 <div align=center>
 
-![André-Masson-'Maternité'](https://github.com/AlyssaStrickland/StricklandAlyssa_testAlyssa_Art2210/raw/master/Image/ca2e34fc.jpg)
+![André-Masson-'Maternité'](https://github.com/AlyssaStrickland/Strickland_Alyssa_Art2210/raw/master/Strickland_Alyssa_ART2210_Self-portrait_Fall2019/Image/André-Masson-'Maternité'.jpg)
 
 <div align=left>
 
