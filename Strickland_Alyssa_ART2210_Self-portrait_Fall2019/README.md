@@ -2,7 +2,7 @@
 
 <div align=center>
 
-![](https://alyssastrickland.github.io/Strickland_Alyssa_Art2210/Strickland_Alyssa_ART2210_Self-portrait_Fall2019/raw/master/Images/masson.jpg)
+![](https://github.com/Strickland_Alyssa_Art2210/AlyssaStrickland/StricklandAlyssa_testAlyssa_Art2210/raw/master/Image/trujillo.jpg)
 
 <div align=left>
 
