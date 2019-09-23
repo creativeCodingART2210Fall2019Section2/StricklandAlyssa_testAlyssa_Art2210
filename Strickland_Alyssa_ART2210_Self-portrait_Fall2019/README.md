@@ -10,13 +10,15 @@ André-Masson-'Maternité'
 
 <div align=center>
 
-Jose Trujillo Male Study
+Jose Trujillo (Male Portrait)
 
 ![trujillo](https://github.com/AlyssaStrickland/Strickland_Alyssa_Art2210/raw/master/Strickland_Alyssa_ART2210_Self-portrait_Fall2019/Image/trujillo.jpg)
 
 <div align=left>
 
 <div align=center>
+
+Jose Trujillo (Female Portrait)
 
 ![trujillo_2]https://github.com/AlyssaStrickland/Strickland_Alyssa_Art2210/raw/master/Strickland_Alyssa_ART2210_Self-portrait_Fall2019/Image/trujillo_2.jpg
 
