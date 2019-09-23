@@ -20,7 +20,7 @@ Jose Trujillo (Male Portrait)
 
 Jose Trujillo (Female Portrait)
 
-![trujillo_2]https://github.com/AlyssaStrickland/Strickland_Alyssa_Art2210/raw/master/Strickland_Alyssa_ART2210_Self-portrait_Fall2019/Image/trujillo_2.jpg
+![trujillo_2](https://github.com/AlyssaStrickland/Strickland_Alyssa_Art2210/raw/master/Strickland_Alyssa_ART2210_Self-portrait_Fall2019/Image/trujillo_2.jpg)
 
 <div align=left>
 
