@@ -2,7 +2,7 @@
 var img;
 
 function preload(){
-  img=loadImage('https://github.com/AlyssaStrickland/Strickland_Alyssa_Art2210/raw/master/Image/ca2e34fc.jpg');
+  img=loadImage("https://github.com/AlyssaStrickland/Strickland_Alyssa_Art2210/raw/master/Image/ca2e34fc.jpg");
 
 }
 
