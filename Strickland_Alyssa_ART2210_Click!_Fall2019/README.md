@@ -2,7 +2,7 @@
 
 <div align=left>
 
-[Click!](https://alyssastrickland.github.io/Strickland_Alyssa_Art2210/Strickland_Alyssa_Art2210/Strickland_Alyssa_ART2210_Click!_Fall2019/Strickland_Alyssa_ART2210_Click!_Fall2019.html)
+[Click!](https://alyssastrickland.github.io/Strickland_Alyssa_Art2210/Strickland_Alyssa_ART2210_Click!_Fall2019/Strickland_Alyssa_ART2210_Click!_Fall2019.html)
 
 <div align=center>
 
