@@ -32,7 +32,7 @@ noStroke();
 ellipse(a, b, radius*2, radius*2)
 
 
-text("Score:" + score, 10, 600) //score points
+text("Score:" + score, 10, 20) //score points
 
 
 }
