@@ -2,33 +2,8 @@
 
 <div align=left>
 
-[Self-Portrait](https://alyssastrickland.github.io/Strickland_Alyssa_Art2210/Strickland_Alyssa_ART2210_Self-portrait_Fall2019/Strickland_Alyssa_ART2210_Self-portrait_Fall2019.html)
+[Click!](https://alyssastrickland.github.io/Strickland_Alyssa_Art2210/Strickland_Alyssa_Art2210/Strickland_Alyssa_ART2210_Click!_Fall2019/Strickland_Alyssa_ART2210_Click!_Fall2019.html)
 
 <div align=center>
 
-My overall goal in the making of this piece was to create a composition that would emanate how I felt about myself and less about how closely it should resemble my face. I began by searching for two different artists that I believed represented my personality well. The first artist I found to inspire me was Jose Trujillo, an impressionist artist who had created many simple, yet expressive portraits. I was fascinated by Trujillo’s capability of capturing a face with so little shapes and lines and wanted to try and replicate that in my work. My second inspiration came from the famous impressionist painter, Andre Masson and his chaotically beautiful compositions. I am impressed with how much emotion I experience while observing Masson’s paintings, especially when they only consist of a mesh of shapes and colors. I hope to incorporate that emotion in my piece as well. However, I purposefully did not make any beginning sketches, as I believed this project was more about experimentation and I didn’t want to set myself up for failure by attempting anything more ambitious.
-I began to use different types of geometric shapes or ellipses to map out the key points of my face- eyes, mouth, and nose. Like in Trujillo’s work, I wanted to use as little shapes as possible, but at the same time, I wanted to see how abstract I could make the shapes before my face became too distorted or indistinguishable. Also, the few colors I use are associated with autumn- my favorite season- and, like some of Masson’s work, is meant to bring a sense of soothing, contemplative emotion.
-The end result, while it may seem incredibly simplistic, it is close to what I was searching for- a simple, geometric outline of how I perceive myself. The composition as a whole is meant to be very minimal and straightforward, with few shapes and colors. This is purposeful, as it is how I see myself - a blunt minimalist with few outwardly discernible qualities.
-<div align=left>
-
-<div align=center>
-
-André-Masson-'Maternité'
-
-![André-Masson-'Maternité'](https://github.com/AlyssaStrickland/Strickland_Alyssa_Art2210/raw/master/Strickland_Alyssa_ART2210_Self-portrait_Fall2019/Image/André-Masson-'Maternité'.jpg)
-
-<div align=left>
-
-<div align=center>
-
-Jose Trujillo (Male Portrait)
-
-![trujillo](https://github.com/AlyssaStrickland/Strickland_Alyssa_Art2210/raw/master/Strickland_Alyssa_ART2210_Self-portrait_Fall2019/Image/trujillo.jpg)
-
-<div align=left>
-
-<div align=center>
-
-Jose Trujillo (Female Portrait)
-
-![trujillo_2](https://github.com/AlyssaStrickland/Strickland_Alyssa_Art2210/raw/master/Strickland_Alyssa_ART2210_Self-portrait_Fall2019/Image/trujillo_2.jpg)
+I had a lot of trouble with this project. In the beginning, I wanted to complete a click and type game, because they were my favorite type of game to play as a child. but I realized that would be too much work and I wouldn’t be able to give it the proper amount of attention it needed to reach its full potential. So, I went with something considerably simpler, a click game with the sole purpose of racking up as many points as possible. While the game may seem considerably unfinished, I’m proud of what I managed to accomplish in the two week span that I had. The biggest obstacle for me when completing this project was understanding the code’s logic, getting from “a” to “b,” then creating my own. While my code does seem simple, I’m happy I understand it and can explain it if needed. 
