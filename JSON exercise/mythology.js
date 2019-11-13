@@ -8,15 +8,14 @@ var gods;
 
 function setup(){
   createCanvas(windowWidth, windowHeight);
-
+  background(0);
 
 }
 
 function draw(){
-  background(0);
   fill(255);
   textAlign(CENTER);
-  text(windowWidth/2, windowHeight/2, gods.description, gods.description);
+  text(gods.description, windowWidth/2, windowHeight/2);
 
 }
 
