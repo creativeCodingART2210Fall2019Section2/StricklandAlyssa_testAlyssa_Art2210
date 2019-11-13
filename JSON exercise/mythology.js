@@ -1,7 +1,8 @@
 var gods;
 
   function preload(){
-  greekmythology = loadJSON("greekmythology.json");
+  gods = loadJSON("greekmythology.json");
+
 
 }
 
@@ -15,6 +16,10 @@ function draw(){
   background(0);
   fill(255);
   textAlign(CENTER);
-  text(greekmythology., windowWidth/2, windowHeight/2);
+  text(windowWidth/2, windowHeight/2, gods.description, gods.description);
 
+}
+
+function windowResized(){
+  resizeCanvas(windowWidth, windowHeight);
 }

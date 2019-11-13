@@ -1,18 +1,16 @@
-var birds;
-
-  function preload(){
-  birds = loadJSON("plants.json");
-
-}
-
 function setup(){
   createCanvas(windowWidth, windowHeight);
-
+    background(225);
 }
 
 function draw(){
-  background(0);
-  fill(255);
-  textAlign(CENTER);
-  text(birds.birds[0].family, windowWidth/2, windowHeight/2);
+  fill(200);
+  noStroke();
+    ellipse(5, 700, 2400, 570);//forground
+
+}
+
+function windowResize(){
+  resizeCanvas(windowWidth,windowHeight);
+
 }
