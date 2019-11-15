@@ -14,7 +14,6 @@ function setup(){
 
 function draw(){
   fill(255);
-  textAlign(CENTER);
   text(gods.description, windowWidth/2, 10);
 
 }
