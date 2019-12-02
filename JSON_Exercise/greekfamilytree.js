@@ -19,6 +19,8 @@ function draw(){
 
   text(gods.greek_gods.chaos, 30, 30);
   text(gods.greek_gods.erebus, 30, 80);
+  text(gods.greek_gods.tartarus, 30, 130);
+  text(gods.greek_gods.pontus, 80, 130);
 
 }
 
