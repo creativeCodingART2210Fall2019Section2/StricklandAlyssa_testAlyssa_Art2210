@@ -19,7 +19,6 @@ function draw(){
   text(gods.description, 500, 10);
   pop()
   text(gods.greek_gods: "Chaos", 30, 30)
-  text(gods.greek_gods, 
 
 }
 
