@@ -18,7 +18,8 @@ function draw(){
   fill(255);
   text(gods.description, 500, 10);
   pop()
-  text(gods.greek_gods.chaos, 30, 30)
+  text(gods.greek_gods.chaos, 30, 30);
+  text(gods.greek_gods.erebus, 30, 80);
 
 }
 
