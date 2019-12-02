@@ -16,9 +16,10 @@ function draw(){
   
   push()
   fill(255);
-  text(gods.description, windowWidth/2, 10);
+  text(gods.description, 500, 10);
   pop()
   text(gods.greek_gods, 30, 30)
+  text(gods.greek_gods, 
 
 }
 
