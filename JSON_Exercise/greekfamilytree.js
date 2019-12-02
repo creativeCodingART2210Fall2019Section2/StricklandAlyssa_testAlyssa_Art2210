@@ -15,7 +15,7 @@ function setup(){
 function draw(){
 
   fill(255);
-  text(gods.description, 500, 10);
+  text(gods.description, 550, 10);
 
   text(gods.greek_gods.17, 30, 30); //chaos
   text(gods.greek_gods.19, 30, 80); //erebus
