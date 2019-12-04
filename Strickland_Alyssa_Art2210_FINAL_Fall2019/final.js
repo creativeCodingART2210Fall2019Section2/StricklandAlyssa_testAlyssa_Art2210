@@ -10,23 +10,169 @@ function setup(){
 
 function draw(){
   background(225);
+  //sky
+fill(50);
+  rect(-1, -1, 2000, 10);
+fill(52);
+    rect(-1, 9, 2000, 10);
+fill(54);
+    rect(-1, 19, 2000, 10);
+fill(56);
+    rect(-1, 29, 2000, 10);
+fill(58);
+    rect(-1, 39, 2000, 10);
+fill(60);
+    rect(-1, 49, 2000, 10);
+fill(62);
+    rect(-1, 59, 2000, 10);
+fill(64);
+    rect(-1, 69, 2000, 10);
+fill(66);
+    rect(-1, 79, 2000, 10);
+fill(68);
+    rect(-1, 89, 2000, 10);
+fill(70);
+    rect(-1, 99, 2000, 10);
+fill(72);
+    rect(-1, 109, 2000, 10);
+fill(74);
+    rect(-1, 119, 2000, 10);
+fill(76);
+    rect(-1, 129, 2000, 10);
+fill(80);
+    rect(-1, 139, 2000, 10);
+fill(85);
+    rect(-1, 149, 2000, 10);
+fill(90);
+    rect(-1, 159, 2000, 10);
+fill(95);
+    rect(-1, 169, 2000, 10);
+fill(100);
+    rect(-1, 179, 2000, 10);
+fill(105);
+    rect(-1, 189, 2000, 10);
+fill(110);
+    rect(-1, 199, 2000, 10);
+fill(115);
+    rect(-1, 209, 2000, 10);
+fill(120);
+    rect(-1, 219, 2000, 10);
+fill(125);
+    rect(-1, 229, 2000, 10);
+fill(130);
+    rect(-1, 239, 2000, 10);
+fill(135);
+    rect(-1, 249, 2000, 10);
+fill(140);
+    rect(-1, 259, 2000, 10);
+fill(145);
+    rect(-1, 269, 2000, 10);
+fill(150);
+    rect(-1, 279, 2000, 10);
+fill(155);
+    rect(-1, 289, 2000, 10);
+fill(155);
+    rect(-1, 299, 2000, 10);
+fill(160);
+    rect(-1, 309, 2000, 10);
+fill(165);
+    rect(-1, 319, 2000, 10);
+fill(170);
+    rect(-1, 329, 2000, 10);
+fill(175);
+    rect(-1, 339, 2000, 10);
+fill(180);
+    rect(-1, 349, 2000, 10);
+fill(185);
+    rect(-1, 359, 2000, 10);
+fill(190);
+    rect(-1, 369, 2000, 10);
+fill(195);
+    rect(-1, 379, 2000, 10);
+fill(200);
+    rect(-1, 389, 2000, 10);
+fill(205);
+    rect(-1, 399, 2000, 10);
+fill(210);
+    rect(-1, 409, 2000, 10);
+fill(215);
+    rect(-1, 419, 2000, 10);
+fill(220);
+    rect(-1, 429, 2000, 10);
+
 
 //city
 noStroke();
 
-  fill(200); //background left building
+  fill(215); //background left building
     rect(2, 200, 350, 330);
-  fill(215); //right buildings
-      rect(850, 40, 100, 500);
-      rect(780, 80, 75, 460);
-  fill(210);
-      rect(950, 40, 75, 500);
+    rect(15, 160, 200, 40);
+    rect(135, 130, 200, 700);
+    rect(400, 45, 400, 700); //middle buildings
+    rect(1100, 130, 100, 500); // right buildings
 
   fill(200);
-    rect(1, 550, 1500, 300);//forground //grey //water?
+      rect(850, 40, 100, 500);//right buildings
+      rect(780, 80, 75, 460);
+      rect(1050, 200, 200, 500);
+      rect(160, 60, 150, 700);//left buildings
+      rect(500, 200, 240, 700);//middle building
+
+      //blue higlight
+      fill(200, 200, 225);
+        triangle(310, 60, 160, 860, 160, 60); //left
+        triangle(500, 200, 740, 200, 500, 900); //middle
+        rect(850, 40, 100, 40); //right
+        triangle(780, 80, 855, 80, 780, 540);
+        triangle(1050, 200, 1050, 700, 1250, 200);
+
+  fill(185);
+    rect(940, 70, 75, 500); //right buildings
+  fill(160);
+    rect(250, 400, 500, 700);
+
+    //windows
+      fill(255);
+        rect(10, 200, 5, 10); //left
+        rect(10, 220, 5, 10);
+        rect(10, 240, 5, 10);
+        rect(10, 260, 5, 10);
+        rect(10, 280, 5, 10);
+        rect(10, 300, 5, 10);
+        rect(10, 320, 5, 10);
+        rect(10, 340, 5, 10);
+        rect(10, 360, 5, 10);
+        rect(10, 380, 5, 10);
+        rect(50, 200, 5, 10); //next
+        rect(50, 220, 5, 10);
+        rect(60, 200, 5, 10);
+        rect(70, 200, 5, 10);
+        rect(90, 250, 5, 10);
+        rect(90, 270, 5, 10);
+        rect(90, 290, 5, 10);
+        rect(100, 250, 5, 10);
+        rect(100, 290, 5, 10);
+        rect(1200, 100, 5, 10);//right
+
+
+        rect(400, 100, 300, 40); //middle
+        rect(400, 150, 200, 40);
+        rect(400, 500, 300, 40);//bottom
+        rect(300, 460, 300, 40);
+        rect(20, 400, 200, 40);//next
+
+        rect(900, 100, 20, 400)//right
+
+    //water
+  fill(65);
+    rect(-1, 550, 1500, 300);//forground //grey
+  fill(80);
+    rect(-1, 550, 1350, 40);
+  fill(95);
+    rect(-1, 550, 1200, 10);
 
   fill(0); //black
-    rect(2, 390, 100, 150); // rect(location x, location y, line w, line h)
+    rect(-1, 390, 100, 150); // rect(location x, location y, line w, line h)
     rect(2, 1, 3, 400);//left vertical
     rect(35, 1, 3, 400);
     rect(97, 1, 4, 400);
@@ -70,7 +216,7 @@ noStroke();
     rect(1100, 1, 6, 900); //right vertical
     rect(1170, 1, 6, 900);
     rect(1200, 1, 15, 900);
-    rect() //railing (x1, y1, x2, y2, x3, y3, x4, y4)
+
 
           //rain amount
         for (var i = 0; i < 500; i++) {
