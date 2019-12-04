@@ -22,10 +22,12 @@ function draw(){
   fill(255);
   text(gods.description, 550, 10);
 >>>>>>> 0e3ba1a192a5cb5a01b9f394d545e4ddf471a25d
-  text(gods.greek_gods[17], 30, 30); //chaos
-  text(gods.greek_gods[19], 30, 80); //erebus
-  text(gods.greek_gods[26], 30, 130); //tartarus
-  text(gods.greek_gods[25], 80, 130); //pontus
+  text(gods.greek_gods[17], 20, 20); //chaos
+   text(gods.greek_gods[19], 40, 80); //erebus
+   text(gods.greek_gods[26], 30, 60); //tartarus
+   text(gods.greek_gods[25], 80, 130); //pontus
+   text(gods.greek_gods[25], 80, 130); 
+   text(gods.greek_gods[25], 80, 130); 
 }
 
 function windowResized(){
