@@ -13,15 +13,9 @@ function setup(){
 }
 
 function draw(){
-<<<<<<< HEAD
-  fill(255);
-  textAlign(CENTER);
-  text(gods.description, windowWidth/2, 10); 
-=======
 
   fill(255);
   text(gods.description, 550, 10);
->>>>>>> 0e3ba1a192a5cb5a01b9f394d545e4ddf471a25d
   text(gods.greek_gods[17], 30, 60); //chaos
    text(gods.greek_gods[19], 30, 60); //erebus
    text(gods.greek_gods[26], 70, 60); //tartarus
