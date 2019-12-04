@@ -4,13 +4,13 @@
 
 
 <div align=center>
-https://github.com/AlyssaStrickland/Strickland_Alyssa_Art2210/raw/master/Strickland_Alyssa_Art2210_FINAL_Fall2019/reference%20images/building.jpg
+ [ ](https://github.com/AlyssaStrickland/Strickland_Alyssa_Art2210/raw/master/Strickland_Alyssa_Art2210_FINAL_Fall2019/reference%20images/building.jpg)
 <div align=left>
 
 <div align=center>
-https://github.com/AlyssaStrickland/Strickland_Alyssa_Art2210/raw/master/Strickland_Alyssa_Art2210_FINAL_Fall2019/reference%20images/city.png
+[ ](https://github.com/AlyssaStrickland/Strickland_Alyssa_Art2210/raw/master/Strickland_Alyssa_Art2210_FINAL_Fall2019/reference%20images/city.png)
 <div align=left>
 
 <div align=center>
-https://github.com/AlyssaStrickland/Strickland_Alyssa_Art2210/raw/master/Strickland_Alyssa_Art2210_FINAL_Fall2019/reference%20images/city2.jpg
+[ ](https://github.com/AlyssaStrickland/Strickland_Alyssa_Art2210/raw/master/Strickland_Alyssa_Art2210_FINAL_Fall2019/reference%20images/city2.jpg)
 <div align=left>
